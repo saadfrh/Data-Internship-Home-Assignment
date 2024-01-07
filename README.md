@@ -43,12 +43,6 @@ On Windows
 venv\Scripts\activate
 ```
 
-#### Deactivation
-
-```bash
-deactivate
-```
-
 ## Project Setup
 
 Export AIRFLOW_HOME before installing dependencies
